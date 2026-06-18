@@ -11,3 +11,4 @@ main(){
     for(fahren=LOWER; fahren<=UPPER; fahren=fahren+STEP)
         printf("%3d\t%6.1f\n", fahren, (5.0/9.0)*(fahren-30.0) );
 }
+
