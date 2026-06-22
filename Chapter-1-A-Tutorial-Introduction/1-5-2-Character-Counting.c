@@ -16,3 +16,4 @@ int main(){
     ;
     printf(" The total character in the file or input is %.0f", character_count);
 }
+
