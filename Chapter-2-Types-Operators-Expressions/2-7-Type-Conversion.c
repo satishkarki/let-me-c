@@ -4,3 +4,4 @@ int main(void){
     int i=c+1;
     printf("The value of i is %d",i);
 }
+
